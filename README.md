@@ -10,21 +10,18 @@ Requirements
   * PHP 7.2.9 or higher;
   * PDO-SQLite PHP extension enabled;
   * and the [usual Symfony application requirements][2].
+  * Composer
+  * Yarn
+  * Symfony
 
 Installation
 ------------
+1 - Clone
+2 - Run composer install
+3 - Run composer update
+4 - Run yarn encore dev 
+5 - Run symfony server:start
 
-[Download Symfony][4] to install the `symfony` binary on your computer and run
-this command:
-
-```bash
-$ symfony new --demo my_project
-```
-
-Alternatively, you can use Composer:
-
-```bash
-$ composer create-project symfony/symfony-demo my_project
 ```
 
 Usage
