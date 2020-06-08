@@ -17,7 +17,7 @@ Requirements
 
 Installation
 ------------
-1 - Clone
+1 - Clone and run cd symfonydemo
 
 2 - Run composer install
 
