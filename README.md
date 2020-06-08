@@ -17,9 +17,13 @@ Requirements
 Installation
 ------------
 1 - Clone
+
 2 - Run composer install
+
 3 - Run composer update
+
 4 - Run yarn encore dev 
+
 5 - Run symfony server:start
 
 ```
