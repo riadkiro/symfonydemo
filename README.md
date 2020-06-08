@@ -11,6 +11,7 @@ Requirements
   * PDO-SQLite PHP extension enabled;
   * and the [usual Symfony application requirements][2].
   * Composer
+  * Node js
   * Yarn
   * Symfony
 
@@ -22,7 +23,11 @@ Installation
 
 3 - Run composer update
 
-4 - Run yarn encore dev 
+4 - Run npm install -g yarn
+
+5 - Run yarn install
+
+6 - Run yarn encore dev
 
 5 - Run symfony server:start
 
